@@ -121,6 +121,10 @@ Then run:
         └── ...
 ```
 
+## Screenshot
+![Screenshot 2025-03-01 173510](https://github.com/user-attachments/assets/e3dfcb1a-0372-48d4-b40f-90d1de3cb379)
+
+
 ## Extending with New Commands
 
 1. Create a new class that extends `BaseCommand` or implements the `Command` interface
